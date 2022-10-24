@@ -10,10 +10,10 @@
  -->
  - 🌱 Always learning new Technologies.
  - 📫 How to reach me hacioguz@gmail.com
+<!--
  - 💖 Sponsor me to support my open source work: https://github.com/sponsors/hacioguz
- <!--
  - 🙏 Please Support: https://www.buymeacoffee.com/hacioguz
- -->
+-->
 ---
 
 
