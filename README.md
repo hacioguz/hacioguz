@@ -19,7 +19,7 @@
 
  
 
- ### Social(Tech) Profiles 
+ ### Social Profiles 
  <p align='left'><a href="https://stackoverflow.com/users/7472434/haci-oguz" target="_blank"><img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/hacioguz" target="_blank"><img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://medium.com/@hacioguz" target="_blank"><img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/hacioguz" target="_blank"><img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/@hacioguz" target="_blank"><img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://instagram.com/hacioguz" target="_blank"><img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://fb.com/Haci.0guz" target="_blank"><img height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p> 
 
  
