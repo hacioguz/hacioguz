@@ -1,7 +1,7 @@
 <p>
 <a href="https://twitter.com/hacioguz"><img src="https://img.shields.io/twitter/follow/hacioguz?label=Follow%20%40hacioguz&style=social" alt="Twitter"></a>&ensp;<a href="https://stackoverflow.com/users/7472434/haci-oguz"><img src="https://img.shields.io/stackexchange/stackoverflow/r/hacioguz?color=orange" alt="Twitter"></a>&ensp;</p> 
 
- ### Hi there 👋, I am Hacı OĞUZ from Türkiye.
+ ### Hi there 👋, I am Hacı OĞUZ from Türkiye. Briefly, everything about IT...
 
 <!--
  ##### Full-stack developer working on open source projects!
